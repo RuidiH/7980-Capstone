@@ -1,5 +1,4 @@
 # 7980-Capstone
-
-SSD Colab Link: https://colab.research.google.com/drive/14k6ENbg79JjqxFAu2_Fi6w5huVVnc6zy?usp=sharing
+RetinaNet Colab Link: https://colab.research.google.com/drive/1dRPYdkjWnWg8-6x60qSm5Zd2pDnxcBDr?usp=sharing
 
 YOLOv8 Colab Link: https://colab.research.google.com/drive/13lJrcIX902E3F3xiClIoDUjRyIbhwDFL?usp=sharing
