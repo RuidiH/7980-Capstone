@@ -5,4 +5,5 @@ YOLOv8m Oblique Colab Link: https://colab.research.google.com/drive/1ep_zrQdKKvX
 
 YOLOv8m Nadir Colab Link: https://colab.research.google.com/drive/1_MtkU9MPIcUHDaO8YozXgenEVzE9eGPx#scrollTo=YBrbt5m2n968
 
-Faster r-cnn Link: https://colab.research.google.com/drive/1h7NCfaRoQ_idC13GL7Aqteb2OB_Y5GSC?usp=sharing
+Faster Colab r-cnn Link: https://colab.research.google.com/drive/1ZUTOnpcLHxYOoXJ6mS4B8NKajaOPwdBc?usp=sharing
+https://colab.research.google.com/drive/1AQqditya-r5ZttJ5onfQPUmKiq4LgEZQ?usp=sharing
